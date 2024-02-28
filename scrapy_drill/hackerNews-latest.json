@@ -1,0 +1,152 @@
+{
+  "The Era of 1-Bit LLMs: All Large Language Models Are in 1.58 Bits": {
+    "url": "https://synthical.com/article/56b9c006-6221-43a1-9678-79b1f1d9c7bc",
+    "score": "24 points",
+    "username": "mixeden"
+  },
+  "The Era of 1-bit LLMs: ternary parameters for cost-effective computing": {
+    "url": "https://arxiv.org/abs/2402.17764",
+    "score": "140 points",
+    "username": "fgfm"
+  },
+  "Testcontainers": {
+    "url": "https://testcontainers.com/",
+    "score": "495 points",
+    "username": "floriangosse"
+  },
+  "Quantum computers move closer to the assembly line": {
+    "url": "https://www.axios.com/2024/02/18/quantum-computers-engineering-manufacturing",
+    "score": "10 points",
+    "username": "rbanffy"
+  },
+  "Show HN: I made an app to use local AI as daily driver": {
+    "url": "https://recurse.chat/",
+    "score": "383 points",
+    "username": "xyc"
+  },
+  "Europe probes Microsoft's \u20ac15M stake in AI upstart Mistral": {
+    "url": "https://www.theregister.com/2024/02/28/eu_microsoft_mistral/",
+    "score": "31 points",
+    "username": "neverrroot"
+  },
+  "Klipper is a 3D-Printer firmware": {
+    "url": "https://www.klipper3d.org/",
+    "score": "18 points",
+    "username": "tdudhhu"
+  },
+  "Airfoil": {
+    "url": "https://ciechanow.ski/airfoil/",
+    "score": "2211 points",
+    "username": "todsacerdoti"
+  },
+  "Klarna AI assistant handles two-thirds of customer service chats in first month": {
+    "url": "https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/",
+    "score": "44 points",
+    "username": "Michelangelo11"
+  },
+  "GoboLinux": {
+    "url": "https://www.gobolinux.org/",
+    "score": "177 points",
+    "username": "haunter"
+  },
+  "Why Python's Integer Division Floors (2010)": {
+    "url": "http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html",
+    "score": "53 points",
+    "username": "bshanks"
+  },
+  "Universal Domain Types": {
+    "url": "https://mmapped.blog/posts/25-domain-types.html",
+    "score": "36 points",
+    "username": "thunderbong"
+  },
+  "Don't Mock Machine Learning Models In Unit Tests": {
+    "url": "https://eugeneyan.com/writing/unit-testing-ml/",
+    "score": "47 points",
+    "username": "7d7n"
+  },
+  "Micron Kicks Off Production of HBM3E Memory": {
+    "url": "https://www.anandtech.com/show/21277/micron-kicks-off-production-of-hbm3e-memory",
+    "score": "57 points",
+    "username": "0xd1r"
+  },
+  "Google pays publishers to test AI tool that scrapes sites to craft new content": {
+    "url": "https://www.adweek.com/media/google-paying-publishers-unreleased-gen-ai/",
+    "score": "20 points",
+    "username": "vincent_s"
+  },
+  "Serverless Horrors": {
+    "url": "https://serverlesshorrors.com/",
+    "score": "184 points",
+    "username": "franciscop"
+  },
+  "JEP 467: Markdown Documentation Comments": {
+    "url": "https://openjdk.org/jeps/467",
+    "score": "136 points",
+    "username": "mfiguiere"
+  },
+  "Pingora: build fast, reliable and programmable networked systems": {
+    "url": "https://github.com/cloudflare/pingora",
+    "score": "118 points",
+    "username": "KajMagnus"
+  },
+  "Blind, Alone, and Confused for 24 Hours Challenge (2020)": {
+    "url": "https://mattlakeman.org/2020/11/08/the-blind-alone-and-confused-for-24-hours-challenge/",
+    "score": "61 points",
+    "username": "quuxplusone"
+  },
+  "46yr-old man claims to have a teen's body, wants to build nation of immortals": {
+    "url": "https://www.theatlantic.com/technology/archive/2024/02/bryan-johnson-dont-die-event/677535/",
+    "score": "10 points",
+    "username": "Geekette"
+  },
+  "Clouds vanish during a solar eclipse": {
+    "url": "https://www.sciencealert.com/clouds-vanish-during-a-solar-eclipse-and-we-finally-know-why",
+    "score": "111 points",
+    "username": "Brajeshwar"
+  },
+  "New FCC Broadband Standards Should Consider Latency": {
+    "url": "https://broadbandbreakfast.com/untitled-12/",
+    "score": "148 points",
+    "username": "dtaht"
+  },
+  "Ask HN: Slow thinkers, how do you compensate for your lack of quick-wittedness?": {
+    "url": "item?id=39522734",
+    "score": "112 points",
+    "username": "michalu"
+  },
+  "Neanderthals' use of complex adhesives shows high cognitive abilities": {
+    "url": "https://phys.org/news/2024-02-neanderthals-usage-complex-adhesives-reveals.html",
+    "score": "116 points",
+    "username": "wglb"
+  },
+  "TrenchBroom: A cross platform level editor for Quake-engine based games": {
+    "url": "https://trenchbroom.github.io/",
+    "score": "62 points",
+    "username": "raytopia"
+  },
+  "The Marvelous Automata of Antiquity (2018)": {
+    "url": "https://daily.jstor.org/the-marvelous-automata-of-antiquity/",
+    "score": "28 points",
+    "username": "taupe-"
+  },
+  "European summer weather linked to North Atlantic freshwater anomalies": {
+    "url": "https://wcd.copernicus.org/articles/5/109/2024/",
+    "score": "90 points",
+    "username": "geox"
+  },
+  "The leap year is February 29, not December 32 due to a Roman calendar quirk": {
+    "url": "https://theconversation.com/the-leap-year-is-february-29-not-december-32-due-to-a-roman-calendar-quirk-and-fastidious-medieval-monks-224433",
+    "score": "3 points",
+    "username": "samizdis"
+  },
+  "Show HN: AI dub tool I made to watch foreign language videos with my 7-year-old": {
+    "url": "https://speakz.ai",
+    "score": "278 points",
+    "username": "leobg"
+  },
+  "Building Unorthodox Deep Learning GPU Machines": {
+    "url": "https://www.kyleboddy.com/2024/01/28/building-deep-learning-machines-unorthodox-gpus/",
+    "score": "64 points",
+    "username": "simonpure"
+  }
+}
